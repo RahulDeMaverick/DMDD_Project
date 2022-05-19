@@ -20,11 +20,4 @@ Revenue being the important factor in any systems calculating total revenue and 
 
 As the name suggests, booking rooms for students is the primary requirement for this system. we can book a room for students using stored proc will update  all the required table 
 
-### Team Details
 
-
-1) Rahul Udhayakumar – 002989204 	
-2) Saneel Tare - 002951543
-3) Akshay Barne – 002956860
-4) Mayank Mansinghka – 001057581
-5) Pradnyal Gandhi - 001095168
